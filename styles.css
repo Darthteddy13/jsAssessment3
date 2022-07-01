@@ -1,0 +1,82 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.skills{
+	box-sizing: content-box;
+	background-color: orange;
+	border: solid black 10px;
+	padding: 20px;
+	margin: 50px;
+}
+#skills{
+	background-color:burlywood;
+	border:dotted black 5px;
+	padding: 10px;
+}
+
+.hobbies{
+	box-sizing: content-box;
+	background-color: orange;
+	border: solid black 10px;
+	padding: 20px;
+	margin: 50px;
+}
+#hobbies{
+	background-color:burlywood;
+	border:dotted black 5px;
+	padding: 10px;
+}
+
+.career{
+	box-sizing: content-box;
+	background-color: orange;
+	border: solid black 10px;
+	padding: 20px;
+	margin: 50px;
+}
+p{
+	background-color:burlywood;
+	border:dotted black 5px;
+	padding: 10px;
+}
+
+.favorite{
+	font-size:42px;
+	background-color: yellow;
+}
